@@ -8,6 +8,7 @@
 **Tools Used:** Microsoft Excel (Pivot Chart, Pivot Table, Conditional Formatting, Slicer)
 
 **Project Description:** 
+
 This dataset contains demographic and socioeconomic information for 2000 individuals, including attributes such as age, education level, occupation, income, and settlement size. It is ideal for studies related to income distribution, employment trends, and socioeconomic factors influencing financial status.
 
 The dataset includes the following columns:
@@ -29,6 +30,7 @@ Occupation: Job classification (e.g., skilled employee, unemployed)
 Settlement Size: Categorization of the residential area (possibly urban/rural classification)
 
 **Key findings:** 
+
 Income Prediction: Understanding how factors like education, marital status, age group, and occupation impact earnings
 
 Demographic & Socioeconomic Analysis: Exploring relationships between age, settlement type, and economic well-being
