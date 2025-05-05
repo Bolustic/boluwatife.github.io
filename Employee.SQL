@@ -17,7 +17,10 @@ from Employee_Salary$
 WHERE Project = 'P1'
 
 --Write an SQL query to find the maximum, minimum, and average salary of the employees.
-select MAX(Salary)
+select 
+	MAX(Salary) AS Max_Sal
+	,MIN(Salary) AS Min_Sal
+	,AVG(Salary) AS Avg_Sal
 from Employee_Salary$
 
 select MIN(Salary)
