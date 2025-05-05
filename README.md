@@ -14,28 +14,18 @@
 This dataset contains demographic and socioeconomic information for 2000 individuals, including attributes such as age, education level, occupation, income, and settlement size. It is ideal for studies related to income distribution, employment trends, and socioeconomic factors influencing financial status.
 
 The dataset includes the following columns:
-
 ID: Unique identifier for each individual
-
 Sex: Encoded as 0 (Female) and 1 (Male)
-
 Marital Status: Categorized as single or non-single (divorced/separated/married/widowed)
-
 Age: Age of the individual
-
 Education: Education level attained (e.g., high school, university)
-
 Income: Annual income in monetary units
-
 Occupation: Job classification (e.g., skilled employee, unemployed)
-
 Settlement Size: Categorization of the residential area (possibly urban/rural classification)
 
 
 **Key findings:** 
-
 Income Prediction: Understanding how factors like education, marital status, age group, and occupation impact earnings
-
 Demographic & Socioeconomic Analysis: Exploring relationships between age, settlement type, and economic well-being
 
 
