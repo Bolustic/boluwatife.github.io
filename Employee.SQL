@@ -1,4 +1,4 @@
----
+----
 --Employee Queries --
 --Write an SQL query to fetch the EmpId and FullName of all the employees working under the Manager with id – ‘986’.-
 select *
