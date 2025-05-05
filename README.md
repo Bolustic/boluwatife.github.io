@@ -2,10 +2,12 @@
 
 **Title:** [Income Distribution by Socioeconomic Factors](https://github.com/Bolustic/boluwatife.github.io/blob/main/Socioeconomic%20Factors%20and%20Income%20Dataset.xlsx)
 
+
 **Dashboard Overview:**
 ![SocialEcoe](SocialEcoe.JPG)
 
 **Tools Used:** Microsoft Excel (Pivot Chart, Pivot Table, Conditional Formatting, Slicer)
+
 
 **Project Description:** 
 
@@ -28,6 +30,7 @@ Income: Annual income in monetary units
 Occupation: Job classification (e.g., skilled employee, unemployed)
 
 Settlement Size: Categorization of the residential area (possibly urban/rural classification)
+
 
 **Key findings:** 
 
