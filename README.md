@@ -111,8 +111,9 @@ The dataset includes the following columns:
 **Boxes Shipped**	Total number of Boxes shipped for each product
 
 **Key findings:** 
-✔ Market Trend Identification 🏪 – Analyze which chocolate categories perform best across various countries, month,s and sales persons
+Market Trend Identification 🏪 – Analyze which chocolate categories perform best across various countries, month,s and sales persons
 
 **Usage:** 
-✔ Sales Forecasting 📈 – Predict future sales trends based on historical data.
-✔ Business Decision-Making 🏆 – Optimize inventory, pricing, and marketing strategies based on data insights
+Sales Forecasting 📈 – Predict future sales trends based on historical data.
+
+Business Decision-Making 🏆 – Optimize inventory, pricing, and marketing strategies based on data insights
