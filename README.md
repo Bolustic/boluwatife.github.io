@@ -23,7 +23,6 @@ The dataset includes the following columns:
 **Occupation:** Job classification (e.g., skilled employee, unemployed)
 **Settlement Size:** Categorization of the residential area (possibly urban/rural classification)
 
-
 **Key findings:** 
 Income Prediction: Understanding how factors such as education, marital status, age group, and occupation impact earnings. 
 Demographic & Socioeconomic Analysis: Exploring relationships between gender, settlement type, and economic well-being
@@ -85,3 +84,35 @@ This is a follow-up on project 2, and it focuses on analysing a comprehensive da
 **Reporting and Visualization:** Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of employees' data, offering valuable insights such as staffing needs and continuity planning for management. 
  
 **Technology used:** SQL server
+
+
+
+# Project 4
+
+**Title:** [Chocolate Sales Trends](https://github.com/Bolustic/boluwatife.github.io/blob/main/Chocolate%20Sales%20Trends-Power%20Bi.pbix)
+
+
+**Dashboard Overview:**
+![ChocSales](ChocSales.JPG)
+
+**Tools Used:** Power BI (Charts, Cards, Tree map, Timeline, Slicer)
+
+
+**Project Description:** 
+
+This dataset contains detailed records of chocolate sales, including product details, sales quantities, revenue, and customer segments. It is designed for sales forecasting, trend analysis, and business intelligence, helping businesses optimize pricing strategies, inventory management, and customer targeting.
+
+The dataset includes the following columns:
+**Date**	The transaction date of the chocolate sale.
+**Product**	Name of the chocolate product sold.
+**Amount**	Total revenue generated from the sale.
+**Country**	Sales region or store location where the transaction took place
+**Sales Person**	The sales representative who sold the products
+**Boxes Shipped**	Total number of Boxes shipped for each product
+
+**Key findings:** 
+✔ Market Trend Identification 🏪 – Analyze which chocolate categories perform best across various countries, month,s and sales persons
+
+**Usage:** 
+✔ Sales Forecasting 📈 – Predict future sales trends based on historical data.
+✔ Business Decision-Making 🏆 – Optimize inventory, pricing, and marketing strategies based on data insights
