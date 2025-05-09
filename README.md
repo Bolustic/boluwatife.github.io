@@ -14,14 +14,14 @@
 This dataset contains demographic and socioeconomic information for 2000 individuals, including attributes such as age, education level, occupation, income, and settlement size. It is ideal for studies related to income distribution, employment trends, and socioeconomic factors influencing financial status.
 
 The dataset includes the following columns:
-ID: Unique identifier for each individual
-Sex: Encoded as 0 (Female) and 1 (Male)
-Marital Status: Categorized as single or non-single (divorced/separated/married/widowed)
-Age: Age of the individual
-Education: Education level attained (e.g., high school, university)
-Income: Annual income in monetary units
-Occupation: Job classification (e.g., skilled employee, unemployed)
-Settlement Size: Categorization of the residential area (possibly urban/rural classification)
+**ID:** Unique identifier for each individual
+**Sex:** Encoded as 0 (Female) and 1 (Male)
+**Marital Status:** Categorized as single or non-single (divorced/separated/married/widowed)
+**Age:** Age of the individual
+**Education:** Education level attained (e.g., high school, university)
+**Income:** Annual income in monetary units
+**Occupation:** Job classification (e.g., skilled employee, unemployed)
+**Settlement Size:** Categorization of the residential area (possibly urban/rural classification)
 
 
 **Key findings:** 
@@ -47,13 +47,13 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:**
 This project focuses on analyzing a comprehensive dataset containing detailed information about employees. The primary objective is to utilize SQL to extract meaningful insights regarding employee information, their department, projects worked on, salary, and other relevant attributes.
 
-Database Design and Implementation: Develop a relational database schema to effectively store and manage the Employee data, ensuring normalization and referential integrity.
+**Database Design and Implementation:** Develop a relational database schema to effectively store and manage the Employee data, ensuring normalization and referential integrity.
 
-Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including: Employee salary, Departments, Location, Bonus estimation, etc.
+**Data Analysis Using SQL:** Execute SQL queries to analyze various aspects of the dataset, including: Employee salary, Departments, Location, Bonus estimation, etc.
 
-Insight Extraction: Identify patterns and trends within the data, such as: Employees with the highest salary, their distribution across locations, the projects they embark upon, and possible bonus distribution
+**Insight Extraction:** Identify patterns and trends within the data, such as: Employees with the highest salary, their distribution across locations, the projects they embark upon, and possible bonus distribution
 
-Reporting and Visualization: Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of employees' data, offering valuable insights such as staffing needs for management. 
+**Reporting and Visualization:** Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of employees' data, offering valuable insights such as staffing needs for management. 
  
 **Technology used:** SQL server
 
@@ -76,12 +76,12 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:**
 This is a follow-up on project 2, and it focuses on analysing a comprehensive dataset containing detailed information about employees. The primary objective is to utilise SQL to extract meaningful insights regarding employee information, their department, date of joining, salary, and other relevant attributes.
 
-Database Design and Implementation: Develop a relational database schema to effectively store and manage the Employee data, ensuring normalization and referential integrity.
+**Database Design and Implementation:** Develop a relational database schema to effectively store and manage the Employee data, ensuring normalization and referential integrity.
 
-Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including: Employee salary, Departments, Location, Position, etc.
+**Data Analysis Using SQL:** Execute SQL queries to analyze various aspects of the dataset, including: Employee salary, Departments, Location, Position, etc.
 
-Insight Extraction: Identify patterns and trends within the data, such as: Employees' salary distribution, their distribution across gender & locations, positions, and years spent in the company.
+**Insight Extraction:** Identify patterns and trends within the data, such as: Employees' salary distribution, their distribution across gender & locations, positions, and years spent in the company.
 
-Reporting and Visualization: Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of employees' data, offering valuable insights such as staffing needs and continuity planning for management. 
+**Reporting and Visualization:** Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of employees' data, offering valuable insights such as staffing needs and continuity planning for management. 
  
 **Technology used:** SQL server
